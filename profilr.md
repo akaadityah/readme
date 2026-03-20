@@ -40,5 +40,5 @@
 ---
 
 <p align="center">
-  ⭐ Star my repositories if you like my work!
+  ⭐ Star my repositories if you like my work!.
 </p>
